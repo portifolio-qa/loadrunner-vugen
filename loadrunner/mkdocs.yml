@@ -1,0 +1,4 @@
+site_name: Documentation LoadRunner
+pages:
+    - Home: index.md
+    - About: about.md
