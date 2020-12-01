@@ -1,6 +1,6 @@
 # LoadRunner
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full documentation visit [HP LoadRunner Tutorial](https://softwaresupport.softwaregrp.com/web/softwaresupport/document/-/facetsearch/attachment/KM01028167?fileName=hp_man_LR12.01_Tutorial_pdf.pdf).
 
 ## Commands MkDocs
 
